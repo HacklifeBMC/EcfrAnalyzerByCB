@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zoj9NQKF2sU=",
+  "success": true,
+  "projectFilePath": "/Users/christianbasubi/Desktop/EcfrAnalyzerByCB/EcfrAnalyzerByCB.csproj",
+  "expectedPackageFiles": [
+    "/Users/christianbasubi/.nuget/packages/microsoft.aspnetcore.openapi/9.0.5/microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "/Users/christianbasubi/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

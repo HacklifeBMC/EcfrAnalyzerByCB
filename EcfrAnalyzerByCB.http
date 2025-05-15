@@ -1,0 +1,6 @@
+@EcfrAnalyzerByCB_HostAddress = http://localhost:5183
+
+GET {{EcfrAnalyzerByCB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
